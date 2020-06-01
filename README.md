@@ -1,2 +1,2 @@
 # JS-animated-form
-A custom animated with validation
+A custom animated form with validation
